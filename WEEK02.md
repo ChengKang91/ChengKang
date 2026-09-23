@@ -5,7 +5,7 @@
 
 
 # 1.日歷
-<img width="843" height="845" alt="image" src="https://github.com/user-attachments/assets/d726fb74-b4dd-477e-8045-48380de833be" />
+<img width="972" height="721" alt="image" src="https://github.com/user-attachments/assets/94cbea8a-ae1d-40df-be29-a26dce12667b" />
 
 # 2：Python 基礎運算符與數值運算 
 <img width="651" height="222" alt="image" src="https://github.com/user-attachments/assets/e8d601ef-2c81-4c55-b19c-0c53c1ed0316" />
