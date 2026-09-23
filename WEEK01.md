@@ -1,2 +1,2 @@
 # My first Google colab
-https://attach.setn.com/newsimages/2021/06/26/3207006-PH.jpg
+<img width="750" height="938" alt="image" src="https://github.com/user-attachments/assets/bd57d5ed-4afa-45fc-82ad-b16029281e2a" />
